@@ -70,4 +70,4 @@ NOTE: Statistics below is relative to the number of analyzed passwords, not tota
 
 ## Authors
 
-* **Mantas Sasnauskas** - [Lexcor](https://github.com/Lexcor)
+* **Mantas Sasnauskas** - [Lexcor](https://github.com/lexcor)
