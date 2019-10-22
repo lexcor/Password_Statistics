@@ -3,6 +3,7 @@
 Analized 91% (2979151312 / 3268443913) of passwords from Collection#1 + other collections that were dumped on January, 2019
 NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
 
+```
 [*] Length:
 [+]                         8: 26% (786701337)
 [+]                         6: 18% (551921261)
@@ -65,6 +66,7 @@ NOTE: Statistics below is relative to the number of analyzed passwords, not tota
 [+]      ?d?d?d?d?d?d?d?d?d?d: 01% (32453931)
 [+]      ?l?l?l?l?l?l?d?d?d?d: 01% (31393836)
 [+]              ?l?l?l?l?l?d: 01% (29886536)
+```
 
 ## Authors
 
