@@ -1,6 +1,9 @@
 # Password Statistics
 
 Analized 91% (2979151312 / 3268443913) of passwords from Collection#1 + other collections that were dumped on January, 2019
+
+
+
 NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
 
 ```
@@ -14,6 +17,44 @@ NOTE: Statistics below is relative to the number of analyzed passwords, not tota
 [+]                        12: 03% (116372280)
 [+]                        13: 02% (67130959)
 [+]                        14: 01% (48538617)
+
+Percentage
+occurance, %
+           +
+           |
+         30|
+         29|
+         28|
+         27|
+         26|         +-+
+         25|         | |
+         24|         | |
+         23|         | |
+         22|         | |
+         21|         | |
+         20|         | |
+         19|         | |
+         18| +-+     | |
+         17| | |     | |
+         16| | |     | |
+         15| | |     | |
+         14| | | +-+ | | +-+
+         13| | | | | | | | | +-+
+         12| | | | | | | | | | |
+         11| | | | | | | | | | |
+         10| | | | | | | | | | |
+          9| | | | | | | | | | |
+          8| | | | | | | | | | |
+          7| | | | | | | | | | |
+          6| | | | | | | | | | |
+          5| | | | | | | | | | | +-+
+          4| | | | | | | | | | | | |
+          3| | | | | | | | | | | | | +-+
+          2| | | | | | | | | | | | | | | +-+
+          1| | | | | | | | | | | | | | | | | +-+
+          0+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+----------+
+             6    7   8   9   10  11  12  13  14
+                                                Character Length
 
 [*] Character-set:
 [+]             loweralphanum: 44% (1334264778)
