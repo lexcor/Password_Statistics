@@ -1,6 +1,6 @@
 # Password Statistics
 
-Analized 91% (2979151312 / 3268443913) of passwords from various dumps + collections that were dumped on January, 2019
+Analized 91% of passwords from various dumps + collections that were dumped on January, 2019
 
 
 
